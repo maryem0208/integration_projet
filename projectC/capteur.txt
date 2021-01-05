@@ -1,0 +1,3 @@
+200A TUP Temperature Defectueux 0 45
+200B GFT Temperature Defectueux 0 45
+300K TUP Humidite Correct 10 90
